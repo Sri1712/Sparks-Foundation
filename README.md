@@ -13,3 +13,9 @@ Internship Type - Work from Home <br>
 * Data can be found at http://bit.ly/w
 * You can use R, Python, SAS Enterprise Miner or any other tool.
 * What will be predicted score if a student studies for 9.25 hrs/ day?
+
+### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+
+- From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+- Use R or Python or perform this task.
+- Data can be found at https://bit.ly/3cGyP8j
